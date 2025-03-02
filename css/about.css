@@ -1,0 +1,43 @@
+.contact-container{
+	padding: 30px;
+}
+.row{
+	display: grid;
+	grid-template-columns: auto auto;
+	column-gap: 20px;
+}
+.container{
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-top: 35px
+}
+.col-6 img{
+	height: 350px;
+	width: 300px;
+	border-radius: 50%;
+	margin-right: 80px
+}
+h1, title{
+	font-size: 48px;
+	line-height: 2;
+}
+.col-6 p{
+	padding: 20px 18px;
+	font-size: 18px;
+	padding-right: 80px;
+	line-height: 2;
+}
+.skills{
+	padding: 60px 0;
+}
+.skillset{
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+
+}
+.skillset img{
+	width: 100p%;
+	height: 100px;
+}
